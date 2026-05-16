@@ -197,7 +197,7 @@ font-family:'Playfair Display', serif;
   font-size:22px;
   margin-bottom:15px;
 
-  transform: translateY(-90px);
+  transform: translateY(-100px);
 }
 
 /* nombres */
@@ -206,7 +206,7 @@ font-family:'Playfair Display', serif;
   flex-direction:column;
   align-items:center;
 font-family:'Great Vibes', cursive;
- gap:19px;
+ gap:21px;
   color:#f5d985;
   margin-top: -5px;
   margin-bottom:28px;
